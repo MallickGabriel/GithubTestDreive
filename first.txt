@@ -1,7 +1,7 @@
 git init Project (to creat top level directory caled project)
 tree .git (there is ono and only .git for each repository)
 
-Notepad first.txt
+Notepad first.txt (you can try Brackets first.txt OR code first.txt)
 
 git status
 (first.txt will be marked with red color )
