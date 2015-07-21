@@ -2,3 +2,42 @@ git init Project (to creat top level directory caled project)
 tree .git (there is ono and only .git for each repository)
 
 Notepad first.txt
+
+git status
+(first.txt will be marked with red color )
+
+git add first.txt
+
+git status
+(first.txt now will be marked with green color )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
