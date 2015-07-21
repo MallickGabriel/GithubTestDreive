@@ -1,0 +1,4 @@
+git init Project (to creat top level directory caled project)
+tree .git (there is ono and only .git for each repository)
+
+Notepad first.txt
