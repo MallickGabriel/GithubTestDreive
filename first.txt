@@ -11,6 +11,8 @@ git add first.txt
 git status
 (first.txt now will be marked with green color )
 
+git commit -m "My first commit"
+
 
 
 
