@@ -13,9 +13,21 @@ git status
 
 git commit -m "My first commit"
 
+git remote remove origin
+
+git remote add origin https://github.com/MallickGabriel/GithubTestDreive.git
+git push -u origin master
+
+…or create a new repository on the command line
+echo # GithubTestDreive >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/MallickGabriel/GithubTestDreive.git
+git push -u origin master
 
 
-
+I need to make sure that every thing is updated
 
 
 
